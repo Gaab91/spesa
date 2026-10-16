@@ -1,0 +1,8 @@
+{
+  "appId": "it.famiglia.spesa",
+  "appName": "La Spesa",
+  "webDir": "www",
+  "android": {
+    "backgroundColor": "#efe1bc"
+  }
+}
